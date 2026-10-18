@@ -50,7 +50,7 @@ Aplicación web móvil accesible desde el QR exclusivo de cada reservado, conect
 - **Cita-arquetipo (no entrevista):** «He pagado 250 € por un reservado para estar cómodo con mis amigos; no quiero perder 20 minutos haciendo cola en la barra ni llevarme empujones para pedir una botella.»
 - **Etiquetas:** Cliente VIP · Inmediatez · Móvil-first.
 
-### Persona secundaria — Carlos “Charly” Navarro
+### Persona secundaria — Carlos Navarro
 
 - **Perfil:** 28 años, responsable de barra y apoyo en sala, San Fernando (Cádiz); personal de Momart.
 - **Contexto:** tablet táctil TPV o móvil de trabajo; Wi-Fi interna; detrás de la barra, con ritmo frenético y ruido extremo; turno de noche en hora punta.
