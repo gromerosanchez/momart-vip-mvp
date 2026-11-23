@@ -6,7 +6,7 @@ Aplicación web móvil para que los clientes de los reservados VIP de Momart (C�
 
 Consulta el alcance, las personas, los criterios de éxito y las restricciones en el [BRIEF.md](./BRIEF.md).
 
-## Entregas del proyecto
+## Entregas del proyecto 
 
 - [Brief del proyecto](./BRIEF.md)
 - [Resumen de la Órbita 2](./ORBITA2.md)
